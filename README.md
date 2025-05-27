@@ -70,62 +70,8 @@ Design and implement an AI system that autonomously plays Tetris with the goal o
 ├── utils.py             # Helper functions
 ├── config.py            # Tuning parameters
 └── README.md
-```
 
----
 
-### 🎥 **Presentation Structure**
 
-1. **Introduction** – Tetris and the challenge of decision-making
-2. **AI Techniques Used**
-3. **Architecture & Implementation**
-4. **Demo of the Game & AI Bot**
-5. **Results & Evaluation**
-6. **Challenges Faced**
-7. **Future Enhancements**
-8. **Q\&A**
 
----
 
-### 📊 **Results**
-
-* Compare AI performance with and without optimization.
-* Graph: score vs generation (for GA).
-* Optional: visualizations of decision trees or Q-values.
-
----
-
-### 📦 **Submission Package**
-
-* ✅ Clean and documented code
-* ✅ Presentation slides (8–10 mins)
-* ✅ Demo video (optional, but impactful)
-* ✅ README with instructions
-
----
-
-### 📝 **Evaluation Fit**
-
-| Criteria                    | Your Plan                                    |
-| --------------------------- | -------------------------------------------- |
-| **Idea & Originality (20)** | Strong – classic game with AI twist          |
-| **Code & Effort (50)**      | Demonstrates multiple AI integrations        |
-| **Presentation (30)**       | Explains core AI decisions and shows results |
-
----
-
-### 🌟 Tips for A+ Grade
-
-* Add a short live demo during the presentation.
-* Make sure your heuristics or GA evolution graphs are visual and insightful.
-* Prepare backup visuals if real-time demo fails.
-
----
-
-Would you like help with:
-
-* Designing the heuristic function?
-* Writing the genetic algorithm code?
-* Creating slides or a sample report?
-
-Let me know how I can assist further!
